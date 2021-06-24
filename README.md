@@ -13,4 +13,4 @@
 #### Task 3
 Переписать пример [producer-consumer](producerconsumer_v_2.py) 
 с поточного на асинхронный стиль.
-- [асинхронный producer-consumer](task_3/producer_consumer_asinq.py)
+- [асинхронный producer-consumer](task_3/producer_consumer_async.py)
