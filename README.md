@@ -11,6 +11,6 @@
 - [вывести название самолета с наибольшим количеством мест на борту.](task_2/seats_count.sql)
 
 #### Task 3
-Переписать пример [producer-consumer](producerconsumer_v_2.py) 
+Переписать пример [producer-consumer](task_1/producerconsumer_v_2.py) 
 с поточного на асинхронный стиль.
 - [асинхронный producer-consumer](task_3/producer_consumer_async.py)
