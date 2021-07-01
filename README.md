@@ -14,3 +14,8 @@
 Переписать пример [producer-consumer](task_1/producerconsumer_v_2.py) 
 с поточного на асинхронный стиль.
 - [асинхронный producer-consumer](task_3/producer_consumer_async.py)
+
+#### Task 4
+Задание - в скаффолде реализовать модели, сериализаторы и REST JSON 
+API для следующей темы:
+- [Сделать мини-блог. С сообщениями, комментариями к ним и подписками.](applications/twits/models.py)
